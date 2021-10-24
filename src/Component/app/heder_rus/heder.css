@@ -1,0 +1,296 @@
+.heder{
+    width: 85%;
+    height: 100px;
+    border: 0px solid;
+    margin-left: 180px;
+    
+}
+.logo{
+    width: 250px;
+    height: 60px;
+    border: 0px solid;
+    background-image: url('../../app/imeges/logo.png');
+    background-size: 100% 100%;
+    cursor: pointer;
+    
+  
+}
+    
+    
+    
+    
+   
+.lezu{
+    margin-left: 300px;
+    
+    width: 300px;
+     margin-top: -20px;
+     
+     
+     
+}
+
+.lezu div {
+    border: 1px solid;
+    font-size: 20px;
+    width: 50px;
+    margin-left: 10px;
+    
+    float: left;
+    text-decoration: none;
+    margin-top: -20px;
+  
+}
+.lezu .hay  {
+    
+    font-size: 20px;
+    width: 50px;
+    margin-left: 10px;
+    
+    float: left;
+    
+    margin-top: -20px;
+    color: white;
+    
+  
+}
+.lezu .eng{
+    
+    font-size: 20px;
+    width: 50px;
+    margin-left: 10px;
+    list-style-type: none;
+    float: left;
+    
+    margin-top: -20px;
+    
+}
+.lezu .rus{
+    
+    font-size: 20px;
+    width: 50px;
+    margin-left: 10px;
+    list-style-type: none;
+    float: left;
+  
+    margin-top: -20px;
+    
+}
+
+.calendar{
+    border: 0px solid;
+    width: 100px;
+    float: left;
+    margin-top: -45px;
+    font-size: 20px;
+}
+.calendar li{
+    border: 0px solid;
+     color: black;
+     float: left;
+     list-style-type: none;
+    
+
+   }
+.calendar .tiv{
+    margin-left: 100px;
+    margin-top: -22px;
+}  
+.cheng{
+    float: left;
+    width: 280px;
+    padding-top: 26px;
+    line-height: 18px;
+    font-size: 17px;
+    margin-top: -60px;
+    margin-left: 100px;
+}
+
+.cheng div{
+    
+    float: left;
+    margin-left: 30px;
+    list-style-type: none;
+    margin-top: 20px;
+}
+.xarn{
+    width: 200px;
+    height: 100px;
+    border: 0px solid;
+    float: left;
+    margin-top: -60px;
+    margin-left: 40px;
+
+}
+.exanak{
+    width: 100px;
+    border: 0px solid;
+    cursor: pointer;
+    margin-left: 120px;
+}
+.logos{
+   
+    height: 30px;
+    border: 0px solid;
+    margin-top: 50px; 
+}
+.wifi{
+    border: 0px solid;
+    width: 25px;
+    height: 25px;
+    
+    color: red;
+    float: left;
+    margin: 10px;
+    margin-top: -10px;
+    cursor: pointer;
+}
+.twiter{
+    border: 0px solid;
+    width: 25px;
+    height: 25px;
+    float: left;
+  color: red;
+    margin: 10px;
+    margin-top: -10px;
+    cursor: pointer;
+}
+.f{
+    border: 0px solid;
+    width: 25px;
+    height: 25px;
+    float: left;
+    color: red;
+    margin: 10px;
+    margin-top: -10px;
+    cursor: pointer;
+}
+.me{
+    border: 0px solid;
+    width: 20px;
+    height: 20px;
+    float: left;
+    color: red;
+    margin: 10px;
+    margin-top: -20px;
+    font-size: 30px;
+    font-style:initial;
+    cursor: pointer;
+   
+}
+.navbar{
+    width: 90%;
+    height: 50px;
+    border: 1px solid;
+    float: left;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+.news{
+    
+    
+    border: 0px solid;
+    float: left;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+.sport{
+    
+    border: 0px solid;
+    float: left;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.style{
+    
+    border: 0px solid;
+    float: left;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.medicine{
+    
+    border: 0px solid;
+    float: left;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.video{
+    border: 0px solid;
+    float: left;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.newsam{
+    border: 0px solid;
+    float: left;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.reviews{
+    border: 0px solid;
+    float: left;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.photo{
+    border: 0px solid;
+    float: left;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.vakancies{
+    border: 0px solid;
+    float: left;
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.input{
+    width: 150px;
+    height: 43px;
+    border: 0px solid;
+    float: left;
+    margin-left: 140px;
+    cursor: pointer;
+}
+input{
+    width: 200px;
+    height: 40px;
+    border: 0px solid;
+    background-color: whitesmoke;
+    outline: none;
+}
+.search1{
+    width: 30px;
+    height: 40px;
+    border: 0px;
+    margin-left: 204px;
+    margin-top: -40px;
+    background-image: url('../../app/imeges/search.png');
+    background-size: 100% 100%;
+    background-color: whitesmoke;
+    cursor: pointer;
+    
+    
+
+}
